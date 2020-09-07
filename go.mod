@@ -50,7 +50,7 @@ require (
 
 replace (
 	github.com/coreos/bbolt => go.etcd.io/bbolt v1.3.5
-        github.com/coreos/go-systemd => github.com/coreos/go-systemd v0.0.0-20180409111510-d1b7d058aa2a
+	github.com/coreos/go-systemd => github.com/coreos/go-systemd v0.0.0-20180409111510-d1b7d058aa2a
 	k8s.io/api => k8s.io/api v0.0.0-20190620084959-7cf5895f2711
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.0.0-20190620085554-14e95df34f1f
 	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20190612205821-1799e75a0719
